@@ -24,6 +24,5 @@ class Pages extends React.Component {
   }
 }
 
-
 ReactDOM.render(<Pages/>, document.querySelector('#root'));
     

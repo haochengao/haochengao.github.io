@@ -43,7 +43,6 @@ export default class Homepage extends React.Component {
           <HaochenGaoImage className={'profile-image'}/>
           <AboutHaochenGao className={'about-paragraph'}/>
         </Box>
-        {/* <SocialMediaMenu className={'social-menu'}/> */}
         <Box id='work-experience' style={{display: 'flex', borderTop: "3px solid rgb(212, 212, 212)", paddingLeft: '144px', alignItems: 'center', justifyContent: 'left', marginTop: '33px', marginLeft:'50px', marginRight: '50px'}}>
           <Typography style={{fontSize: '40px', marginTop: '20px', color: 'green'}}>
             Where I've Worked
