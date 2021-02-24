@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name":"Haochen Gao",
+    "occupation":"Electrical Engineering and Computer Science (EECS) Student At U.C. Berkeley",
+    "description":"Currently, my most marketable skill is full-stack software development with the frameworks of Flask, React, and Express.",
+    "image":"profilepic.jpg",
+    "bio":"On the technology side, besides full-stack, my interests primarily lie in machine learning, control theory, robotics, drones, and other cyber-physical systems. Away from coding, I enjoy hockey, working out, listening to EDM, and the classic Berkeley pasttimes of playing video games and drinking boba.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "haochengao@berkeley.edu",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "https://www.haochengao.com",
+    "resumedownload":"https://drive.google.com/file/d/1exv66ZDopOaj064w5616YnaEc2eTAnDq/view?usp=sharing",
+    "social":[
+      {
+        "name":"github",
+        "url":"http://github.com/haochengao",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/haochengao/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/gaohaochen",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/haochengao",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/haochengao1",
+        "className":"fa fa-facebook"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University of California, Berkeley",
+        "degree":"Electrical Engineering and Computer Science (EECS)",
+        "graduated":"Expected May 2022",
+        "description":"I had a great time in my 1.5 years at Berkeley before COVID-19, making solar cars and drones with CalSol and UAVs@Berkeley, repspectively. Can't wait to go back. Please let me go back."
+      }
+    ],
+    "work":[
+      {
+        "company":"Berkeley Emerging Technologies Resarch Center",
+        "title":"Software Development",
+        "years":"May 2020 - Present",
+        "description":"Worked on making microservices with Flask, React, Postgres, Docker, and Heroku. Also worked on a website overhaul."
+      },
+      {
+        "company":"Center for Energy Efficient Electronics",
+        "title":"Educational Video Producer",
+        "years":"April 2019 - May 2020",
+        "description":"Made educational videos on Electrical Engineering topics for K-12 audience. Also updated webpage and made minor css changes to website."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"Flask",
+        "level":"65%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"65%"
+      },
+      {
+        "name":"Express",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"AWS",
+        "level":"45%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Boba Delivery Drone",
+        "category":"Automatic Boba Delivery Via Drone",
+        "image":"bobadeliverydrone.png",
+        "url":"http://bobadeliverydrone.com"
+      },
+      {
+        "title":"Robot Soccer Simulator",
+        "category":"Path Planning and ROS for AI Soccer in a Virtual Environment",
+        "image":"robosoccer.jpg",
+        "url":"https://sites.google.com/berkeley.edu/robocup/results?authuser=0"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Theres no way anybody is actually gonna read this right.",
+        "user":"Haochen Gao"
+      }
+    ]
+  }
+}
